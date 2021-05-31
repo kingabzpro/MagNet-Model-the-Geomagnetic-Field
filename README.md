@@ -1,5 +1,5 @@
 # MagNet Model the Geomagnetic Field
-[![View in Deepnote](https://deepnote.com/static/buttons/view-in-deepnote-white.svg)](https://deepnote.com/viewer/github/kingabzpro/MagNet-Model-the-Geomagnetic-Field/blob/main/magnet-model-the-geomagnetic-field.ipynb)
+[![View in Deepnote](https://deepnote.com/static/buttons/view-in-deepnote.svg)](https://deepnote.com/viewer/github/kingabzpro/MagNet-Model-the-Geomagnetic-Field/blob/main/magnet-model-the-geomagnetic-field.ipynb)
 ## Overview
 
 ![Magnet](https://drivendata-public-assets.s3.amazonaws.com/noaa-cover-img.png)
