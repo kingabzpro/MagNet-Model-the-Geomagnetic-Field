@@ -1,5 +1,6 @@
-MagNet Model the Geomagnetic Field
-# Overview
+# MagNet Model the Geomagnetic Field
+[![View in Deepnote](https://deepnote.com/static/buttons/view-in-deepnote-white.svg)](https://deepnote.com/viewer/github/kingabzpro/MagNet-Model-the-Geomagnetic-Field/blob/main/magnet-model-the-geomagnetic-field.ipynb)
+## Overview
 
 ![Magnet](https://drivendata-public-assets.s3.amazonaws.com/noaa-cover-img.png)
 Help NOAA better forecast changes in Earth’s magnetic field!
@@ -10,19 +11,19 @@ As a key specification of the magnetospheric dynamics, the Dst index is used to 
 
 Empirical models have been proposed as early as in 1975 to forecast Dst solely from solar-wind observations at the Lagrangian (L1) position by satellites such as NOAA’s Deep Space Climate Observatory (DSCOVR) or NASA's Advanced Composition Explorer (ACE). Over the past three decades, several models were proposed for solar wind forecasting of Dst, including empirical, physics-based, and machine learning approaches. While the ML models generally perform better than models based on the other approaches, there is still room to improve, especially when predicting extreme events. More importantly, we seek solutions that work on the raw, real-time data streams and are agnostic to sensor malfunctions and noise.
 
-# Task
+## Task
 In this challenge, your task is to develop models for forecasting Dst that push the boundary of predictive performance, under operationally viable constraints, using the real-time solar-wind (RTSW) data feeds from NOAA’s DSCOVR and NASA’s ACE satellites. Improved models can provide more advanced warning of geomagnetic storms and reduce errors in magnetic navigation systems.
 
 Head on over to the [Problem Description](https://www.drivendata.org/competitions/73/noaa-magnetic-forecasting/page/279/) to get started!
 
-# Problem description
+## Problem description
 The goal of this challenge is to develop models for forecasting Dst (Disturbance Storm-Time Index) that 1) push the boundary of predictive performance 2) under operationally viable constraints 3) using specified real-time solar-wind data feeds. More information on the dataset, performance metric, and submission specifications is provided below.
 
 Finalists will be determined by performance on the private test set. These participants will then have the opportunity to submit their code to be audited using an out-of-sample verification set. The top 4 eligible teams that pass this final check will be awarded prizes.
 
 **You can find more information on** [DataDriven](https://www.drivendata.org/competitions/73/noaa-magnetic-forecasting/page/279/)
 
-# Result
+## Result
 
 I scored 40th rank in this DrivenData competition and my Jounery started with simple LSTM. You can look at all the versions. I will be relising GPU and CPU version of this notebook. [Ranking](https://www.drivendata.org/competitions/73/noaa-magnetic-forecasting/leaderboard/)
 
